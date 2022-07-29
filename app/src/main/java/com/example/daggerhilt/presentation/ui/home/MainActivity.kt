@@ -1,4 +1,4 @@
-package com.example.daggerhilt
+package com.example.daggerhilt.presentation.ui.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,8 @@ import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.daggerhilt.MainActivityViewModel
+import com.example.daggerhilt.R
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.activity_main.*
 

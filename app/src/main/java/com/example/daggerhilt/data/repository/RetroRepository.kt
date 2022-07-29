@@ -1,6 +1,9 @@
-package com.example.daggerhilt.network
+package com.example.daggerhilt.data.repository
 
 import androidx.lifecycle.MutableLiveData
+import com.example.daggerhilt.network.RecyclerData
+import com.example.daggerhilt.network.RecyclerList
+import com.example.daggerhilt.network.RetroServieInstance
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
