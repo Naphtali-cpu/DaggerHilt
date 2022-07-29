@@ -1,6 +1,6 @@
 package com.example.daggerhilt.di
 
-import com.example.daggerhilt.network.RetroServieInstance
+import com.example.daggerhilt.data.repository.api.RetroServieInstance
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -1,4 +1,4 @@
-package com.example.daggerhilt
+package com.example.daggerhilt.presentation.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

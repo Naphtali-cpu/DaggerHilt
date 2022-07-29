@@ -1,5 +1,6 @@
-package com.example.daggerhilt.network
+package com.example.daggerhilt.data.repository.api
 
+import com.example.daggerhilt.network.RecyclerList
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
